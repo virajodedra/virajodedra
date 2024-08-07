@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **virajodedara06@gmail.com**
 
-- ⚡ Fun fact **Coding is not so hard**
+- ⚡ Fun fact **coding is not so hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
