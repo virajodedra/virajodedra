@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajodedra&label=Profile%20views&color=0e75b6&style=flat" alt="virajodedra" /> </p>
 
-- 🌱 I’m currently learning **courses,Data Structure in Java**
+- 🌱 I’m currently learning **courses, Data Structure in Java**
 
-- 💬 Ask me about **Java,C,Html,Javascript,SQL**
+- 💬 Ask me about **Java, C, Html, Javascript ,SQL**
 
 - 📫 How to reach me **virajodedara06@gmail.com**
 
