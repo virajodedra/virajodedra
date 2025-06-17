@@ -1,183 +1,28 @@
-<div align="center">
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1723043645~exp=1723047245~hmac=d8bf2ec64cf6a0946fcd940bbd4f8dfdce07813090aa9c074eae47be60ae897f&w=1380)
+<h1 align="center">Hi 👋, I'm Odedra Viraj</h1>
+<h3 align="center">A skilled Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# 🌟 VIRAJ ODEDRA
-### `< Full Stack Developer />`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajodedra&label=Profile%20views&color=0e75b6&style=flat" alt="virajodedra" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Digital+Dreams+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%E2%9C%A8;Full+Stack+%7C+Problem+Solver+%F0%9F%92%A1" alt="Typing Animation" />
+- 🌱 I’m currently learning **courses, Data Structure in Java, Machine Learning, Algorithms in c**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+- 💬 Ask me about **Java, C, Html, Javascript ,SQL, mern**
 
-</div>
+- 📫 How to reach me **virajodedara06@gmail.com**
 
----
+- ⚡ Fun fact **Coding is not so hard**
 
-## 🎯 **WHO AM I?**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/virajodedra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virajodedra04" height="30" width="40" /></a>
+</p>
 
-<table>
-<tr>
-<td width="50%">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-```json
-{
-  "name": "Viraj Odedra",
-  "location": "India 🇮🇳",
-  "role": "Full Stack Developer",
-  "experience": "Building Amazing Web Apps",
-  "passion": ["Clean Code", "Innovation", "Problem Solving"],
-  "currentMission": "Crafting Digital Experiences",
-  "motto": "Code with Purpose, Build with Passion"
-}
-```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajodedra&show_icons=true&locale=en&layout=compact" alt="virajodedra" /></p>
 
-</td>
-<td width="50%">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajodedra&show_icons=true&locale=en" alt="virajodedra" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=virajodedra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 **CURRENTLY CODING**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,java,html,css,bootstrap,git&theme=dark" alt="Tech Stack" />
-
-</div>
-
-### 🎯 **Active Projects & Learning**
-```yaml
-📚 Learning: 
-  - Data Structures & Algorithms in Java
-  - Machine Learning Fundamentals  
-  - Advanced MERN Stack Development
-  - System Design Patterns
-
-🔨 Building:
-  - Full Stack Web Applications
-  - Interactive User Interfaces
-  - Scalable Backend Systems
-  - Database Optimization Solutions
-
-💡 Exploring:
-  - Cloud Technologies (AWS/GCP)
-  - DevOps & CI/CD Pipelines
-  - Microservices Architecture
-  - AI/ML Integration
-```
-
----
-
-## 💻 **TECH ECOSYSTEM**
-
-<div align="center">
-
-### **🚀 LANGUAGES**
-<img src="https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a"/>
-
-### **⚡ FRAMEWORKS & LIBRARIES**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1a1a"/>
-
-### **🗄️ DATABASES & TOOLS**
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a1a"/>
-
-</div>
-
----
-
-## 📊 **GITHUB UNIVERSE**
-
-<div align="center">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=virajodedra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4FF&text_color=C9D1D9&ring_color=FF6B6B"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajodedra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajodedra&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=00D4FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D4FF&sideNums=FF6B6B"/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=virajodedra&custom_title=📈%20Contribution%20Timeline&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FF6B6B&area=true&hide_border=true&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🏆 **ACHIEVEMENTS SHOWCASE**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=virajodedra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-</div>
-
----
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="center">
-
-### **Let's Build Something Amazing Together!**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br><sub><b>Professional Network</b></sub>
-</td>
-<td align="center" width="33%">
-<a href="https://leetcode.com/virajodedra04">
-<img src="https://img.shields.io/badge/🧩-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<br><sub><b>Problem Solving</b></sub>
-</td>
-<td align="center" width="33%">
-<a href="mailto:virajodedara06@gmail.com">
-<img src="https://img.shields.io/badge/📧-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br><sub><b>Direct Contact</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💡 **INSPIRATION CORNER**
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
-
-### 🎯 **My Development Philosophy**
-*"Clean code always looks like it was written by someone who cares"*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
-
-</div>
-
----
-
-## 📈 **PROFILE INSIGHTS**
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=virajodedra&label=Profile%20Views&color=FF6B6B&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-### 🚀 **"Code • Create • Innovate"**
-*Building the future, one commit at a time*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajodedra&" alt="virajodedra" /></p>
