@@ -23,9 +23,9 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, Next.js  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind React, Next.js  
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB, SQL  
+- **Database:** MongoDB, SQL, Postgress  
 - **Languages:** Java, C, JavaScript  
 
 ---
