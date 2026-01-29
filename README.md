@@ -23,10 +23,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind React, Next.js  
-- **Backend:** Node.js, Express  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Next.js  
+- **Backend:** Node.js, Express, Nest.js  
 - **Database:** MongoDB, SQL, Postgress  
-- **Languages:** Java, C, JavaScript  
+- **Languages:** Java, C, JavaScript, TypeScript, Dart, Python   
 
 ---
 
